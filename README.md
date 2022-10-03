@@ -6,7 +6,7 @@
 
 - I graduated with the professional title of "Web and Mobile Web Developer" and the "Opquast Certification" with advanced level.
 
-### I did a specialization on Symfony framewok to make clean and powerfull back-end App with PHP.
+### I did a specialization on Symfony framework to make clean and powerfull back-end App with PHP.
 
 ### Of course I also use other technologies like :
 
