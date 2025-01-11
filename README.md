@@ -1,24 +1,44 @@
 ## 🧐 Simon Chabrier
 ### 📍From - Agen Lot & Garonne
 
-## Front End :
-- Html / Css-Scss / Bootstrap - Tailwind - Pico  / Twig - Pug...
-- JavaScript / Esm - VueJs - Stimulus - Webpack
-...
+## **Skills**
 
-## Back End :
-- Symfony / Php
-- Doctrine / Sql / Dql
-- NodeJs / Express
-- Sequelize
-...
+### **Front-End**  
+- **HTML/CSS**: SCSS, Bootstrap, Tailwind CSS, PicoCSS.  
+- **Templating**: Twig, Pug.  
+- **JavaScript**: ES6+, Stimulus, Vue.js (Composition API, Options API), Webpack, Importmaps.  
+- **Performance & Accessibility**: Front-end optimization, compliance with Opquast standards.  
 
-## Tech
-- Ubuntu / Ubuntu Server
-- Apache / Caddy
-...
-  
-## Methodologies:
-- Agile
-- Scrum
+---
+
+### **Back-End**  
+- **PHP**: Symfony (Event Subscribers, Twig Components & Live Components, Asset Mapper, UX Turbo...).  
+- **Databases**: Doctrine ORM, SQL/DQL, MariaDB, PostgreSQL.  
+- **Node.js**: Express.js, Sequelize ORM.  
+- **APIs**: REST, JSON, API Platform, Mercure, Server-Sent Events (SSE).  
+- **Asynchronous Processing**: Symfony Messenger, Redis.  
+- **Testing**: PHPUnit, validation, and debugging tools.  
+
+---
+
+### **Tech & DevOps**  
+- **Operating Systems**: Ubuntu, Ubuntu Server, Plesk.  
+- **Web Servers**: Apache, Caddy, Nginx.  
+- **Version Control**: Git (GitHub, GitFlow).  
+- **Environments**: Docker, VSCode.  
+- **CI/CD**: Basic knowledge of GitHub Actions.  
+
+---
+
+### **Methodologies**  
+- **Project Management**: Agile and Scrum methodologies (meetings, sprint planning).  
+- **Collaboration Tools**: Trello.  
+- **Documentation**: Technical writing (README, installation guides), UML (use case diagrams, class diagrams).  
+
+---
+
+### **Soft Skills**  
+- **Teamwork**: Experience collaborating in multi-contributor projects.  
+- **Organization**: Strong priority management and project maintenance (refactoring, clean code).  
+- **Adaptability**: Continuous learning of recent frameworks and tools.  
 
