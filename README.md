@@ -1,5 +1,4 @@
-## 🧐 Simon Chabrier
-### 📍From - Agen Lot & Garonne
+## Simon Chabrier - Agen Lot & Garonne (France)
 
 ## **Skills**
 
